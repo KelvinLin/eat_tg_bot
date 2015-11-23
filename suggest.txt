@@ -1,0 +1,25 @@
+negibook=>
+ "/add 你會什 的指令集"
+ Kelvin=>
+ "add 功能"
+ Kelvin=>
+ "add 功能"
+ lovesea=>
+ "Suggest"
+ lovesea=>
+ "Suggest 烤鴨 1.龍都 台北市中山區中山北路一段105巷18之1號\" 是甚麼? 可以吃嗎?"
+ lovesea=>
+ "Suggest 烤鴨 1.龍都 台北市中山區中山北路一段105巷18之1號"
+ lovesea=>
+ "add"
+ lovesea=>
+ "add 烤鴨"
+ Kelvin=>
+ "/add"
+ Kelvin=>
+ "/add"
+ Kelvin=>
+ "/add"
+ Kelvin=>
+ "/add"
+ 

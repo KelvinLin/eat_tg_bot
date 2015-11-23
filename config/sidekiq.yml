@@ -1,0 +1,9 @@
+---
+:verbose:      false
+:concurrency:  5
+:timeout: 30
+#:pidfile: ../tmp/sidekiq.pid
+:logfile: ./log/sidekiq.log
+:queues:
+  - critical
+  - default

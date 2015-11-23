@@ -1,0 +1,13 @@
+default: &default  
+  tg:
+    token: ''
+    suggest_file: '/home/xxx/tgeatbot/suggest.txt'
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+       
+production:
+  <<: *default
