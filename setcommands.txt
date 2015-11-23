@@ -1,0 +1,9 @@
+/setcommands
+@EatManBot
+
+help - 說明
+add - 建議功能
+map - 吃貨地圖
+hi - 打招呼
+calendar - 吃貨日記
+schedule - 近期行程
