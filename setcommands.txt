@@ -2,8 +2,10 @@
 @EatManBot
 
 help - 說明
-add - 建議功能
+suggest - 建議功能
 map - 吃貨地圖
 hi - 打招呼
 calendar - 吃貨日記
 schedule - 近期行程
+clean_schedule - 清空行程
+add_schedule - 新增行程

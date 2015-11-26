@@ -33,6 +33,7 @@ gem "telegram_bot", github: 'eljojo/telegram_bot'
 gem 'settingslogic'
 gem "sidekiq"
 
+gem 'newrelic_rpm'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
